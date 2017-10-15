@@ -12,9 +12,11 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Communication Global variables.vi" Type="VI" URL="../Communication Global variables.vi"/>
 		<Item Name="get inventory from robot.vi" Type="VI" URL="../get inventory from robot.vi"/>
+		<Item Name="inventory type def.ctl" Type="VI" URL="../inventory type def.ctl"/>
 		<Item Name="SamsGrapher.vi" Type="VI" URL="../SamsGrapher.vi"/>
 		<Item Name="Send Stop Command To Robot.vi" Type="VI" URL="../Send Stop Command To Robot.vi"/>
 		<Item Name="Send Subscription List To Robot.vi" Type="VI" URL="../Send Subscription List To Robot.vi"/>
+		<Item Name="subscription type def.ctl" Type="VI" URL="../subscription type def.ctl"/>
 		<Item Name="update available parameters.vi" Type="VI" URL="../update available parameters.vi"/>
 		<Item Name="update waveform plot names.vi" Type="VI" URL="../update waveform plot names.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
